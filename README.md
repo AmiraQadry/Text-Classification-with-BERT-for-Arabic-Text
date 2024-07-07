@@ -1,5 +1,5 @@
 ## Text Classification with BERT for Arabic Text
-![](https://www.researchgate.net/publication/354938213/figure/fig2/AS:1085760778305539@1635876950866/Arabic-BERT-model-architecture.ppm)
+![](https://www.researchgate.net/profile/Hasna-Chouikhi/publication/354938213/figure/fig2/AS:1085760778305539@1635876950866/Arabic-BERT-model-architecture.ppm)
 
 This project implements a text classification model using the Bidirectional Encoder Representations from Transformers (BERT) for Arabic text. 
 The model is fine-tuned on a custom dataset to classify text into predefined categories.
